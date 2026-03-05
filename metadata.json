@@ -1,0 +1,5 @@
+{
+  "name": "Resume Project Matcher",
+  "description": "An AI-powered tool that suggests tailored project experiences by analyzing target company data and job descriptions to optimize your resume.",
+  "requestFramePermissions": []
+}
